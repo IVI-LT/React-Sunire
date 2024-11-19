@@ -2,5 +2,10 @@
 
 ### Current Objective ###
 
- - Using React for front end.
- - Train GPT for skin cancer focus.
+ -  Rough Design   
+   - together.ai  
+ -  Streamed Response  
+ -  Rags Disc   
+    - Train GPT for skin cancer focus.   
+ - Chat history using sql   
+ - Logic function   
