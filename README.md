@@ -2,10 +2,6 @@
 
 ### Current Objective ###
 
-19/11/2024
- - Add reviewer
-
-
  -  Rough Design   
    - together.ai  
  -  Streamed Response  
