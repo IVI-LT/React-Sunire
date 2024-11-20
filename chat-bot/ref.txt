@@ -1,0 +1,3 @@
+https://volerelife.wordpress.com/2023/03/06/how-to-use-openai-chatgpt-api-in-react-js/
+
+    Used for chatbot example - switched to using together api and switched to python server.
